@@ -1,2 +1,2 @@
 Personal Website:
-naveinsuresh.github.io
+https://naveinsuresh.github.io
