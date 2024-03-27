@@ -1,4 +1,4 @@
-Check out my website: https://naveinsuresh.github.io
+My Website: https://naveinsuresh.github.io
 
 ~ Navein Suresh
 
